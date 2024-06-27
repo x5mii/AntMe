@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{adb039c9-a492-4cba-bf92-18c0d4c80597}") = "SuperSkibidiAnts", "SuperSkibidiAnts.csproj", "{ad12209c-7a9d-4ec5-aabb-26440803a8c8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ad12209c-7a9d-4ec5-aabb-26440803a8c8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ad12209c-7a9d-4ec5-aabb-26440803a8c8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ad12209c-7a9d-4ec5-aabb-26440803a8c8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ad12209c-7a9d-4ec5-aabb-26440803a8c8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

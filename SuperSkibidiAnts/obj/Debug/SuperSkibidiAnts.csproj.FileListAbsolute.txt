@@ -1,0 +1,13 @@
+C:\Users\samue\Desktop\SuperSkibidiAnts\bin\AntMe.Player.SuperSkibidiAnts.dll
+C:\Users\samue\Desktop\SuperSkibidiAnts\bin\AntMe.Player.SuperSkibidiAnts.pdb
+C:\Users\samue\Desktop\SuperSkibidiAnts\bin\AntMe.SharedComponents.dll
+C:\Users\samue\Desktop\SuperSkibidiAnts\bin\AntMe.Simulation.dll
+C:\Users\samue\Desktop\SuperSkibidiAnts\bin\AntMe.SharedComponents.xml
+C:\Users\samue\Desktop\SuperSkibidiAnts\bin\AntMe.Simulation.xml
+C:\Users\samue\Desktop\SuperSkibidiAnts\bin\de\AntMe.SharedComponents.resources.dll
+C:\Users\samue\Desktop\SuperSkibidiAnts\bin\de\AntMe.Simulation.resources.dll
+C:\Users\samue\Desktop\SuperSkibidiAnts\obj\Debug\SuperSkibidiAnts.csproj.AssemblyReference.cache
+C:\Users\samue\Desktop\SuperSkibidiAnts\obj\Debug\SuperSkibidiAnts.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\SuperSkibidiAnts\obj\Debug\SuperSki.987EAA39.Up2Date
+C:\Users\samue\Desktop\SuperSkibidiAnts\obj\Debug\AntMe.Player.SuperSkibidiAnts.dll
+C:\Users\samue\Desktop\SuperSkibidiAnts\obj\Debug\AntMe.Player.SuperSkibidiAnts.pdb
